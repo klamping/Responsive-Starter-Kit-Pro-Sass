@@ -8,7 +8,7 @@ If you'd like to take a look at something a bit more basic, you might enjoy the 
 
 ## Demo ##
 
-Take a look at the <a href="http://mpgilbertusa.github.io/Responsive-Starter-Kit-Pro-Sass/">sample layout pages</a> to see how everything works.
+Take a look at the [sample layout pages](index.html) to see how everything works.
 
 ## What's Included ##
 
