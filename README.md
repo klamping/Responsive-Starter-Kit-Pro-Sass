@@ -1,4 +1,4 @@
-# Responsive Starter Kit, Sass Edition #
+# Responsive Starter Kit Pro, Sass Edition #
 
 A highly functional toolkit to help jump-start a typical responsive web design project. This is a full-featured variation of the more basic [responsive starter kit](https://github.com/mpgilbertusa/Responsive-Starter-Kit) which was primarily created for instructional purposes to introduce basic RWD concepts. This version includes the Sass pre-processor as well as a handful of add-ons for typical responsiveness and can be used on a variety of real-world projects.
 
@@ -8,7 +8,7 @@ If you'd like to take a look at something a bit more basic, you might enjoy the 
 
 ## Demo ##
 
-Take a look at the <a href="http://mpgilbertusa.github.io/Responsive-Starter-Kit-Pro-Sass/">sample layout pages</a> to see how everything works.
+Take a look at the [sample layout pages](http://mpgilbertusa.github.io/Responsive-Starter-Kit-Pro-Sass/) to see how everything works.
 
 ## What's Included ##
 
